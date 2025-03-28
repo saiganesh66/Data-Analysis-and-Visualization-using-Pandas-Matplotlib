@@ -1,0 +1,11 @@
+Date,Product,Region,Sales,Quantity,Profit
+2024-01-01,Laptop,North,1000,5,200
+2024-01-02,Phone,South,1200,7,250
+2024-01-03,Tablet,West,900,6,180
+2024-01-04,Laptop,East,1500,8,300
+2024-01-05,Tablet,North,1100,7,220
+2024-01-06,Phone,South,1300,9,270
+2024-01-07,Laptop,West,1600,10,350
+2024-01-08,Tablet,East,950,5,190
+2024-01-09,Phone,North,1400,6,260
+2024-01-10,Laptop,South,1700,9,370
